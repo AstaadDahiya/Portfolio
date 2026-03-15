@@ -3,7 +3,7 @@
   <img src="src/app/icon.svg" alt="Logo" width="80" height="80">
   <br />
 
-  <h1 align="center">Aryan Dahiya | Anti-Gravity Portfolio</h1>
+  <h1 align="center">Aryan Dahiya | Portfolio</h1>
 
   <p align="center">
     A premium, cinematic developer portfolio built for AI/ML and Full-Stack capability.
