@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="public/favicon.ico" alt="Logo" width="80" height="80">
+  <img src="src/app/icon.svg" alt="Logo" width="80" height="80">
   <br />
 
   <h1 align="center">Aryan Dahiya | Anti-Gravity Portfolio</h1>
